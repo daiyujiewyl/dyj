@@ -31,6 +31,5 @@ public class DateUtil {
 	//求过去日期离今天过去的天数
 	public static int getDaysByDeparted(Date departed){
 		return 0;
-		
 	}
 }
