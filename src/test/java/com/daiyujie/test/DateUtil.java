@@ -24,8 +24,7 @@ public class DateUtil {
 	
 	//求未来日期离今天还剩的天数
 	public static int getDaysByFuture(Date future){
-		return 0;
-		
+		return 0;	
 	}
 	
 	//求过去日期离今天过去的天数
